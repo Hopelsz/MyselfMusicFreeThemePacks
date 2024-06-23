@@ -28,9 +28,9 @@
 <br/>
 
 <p> 
-    <img src=".imgs/黑红主题.png" width = 20% height = 20%/>
-    <img src=".imgs/红娘主题.png" width = 20% height = 20%/>
-    <img src=".imgs/海盗主题.png" width = 20% height = 20%/>
-    <img src=".imgs/晚霞主题.png" width = 20% height = 20%/>
+    <img src=".imgs/黑红主题.png" width = 30% height = 30%/>
+    <img src=".imgs/红娘主题.png" width = 30% height = 30%/>
+    <img src=".imgs/海盗主题.png" width = 30% height = 30%/>
+    <img src=".imgs/晚霞主题.png" width = 30% height = 30%/>
 </p>
 本项目复刻自maotoumao的项目https://github.com/maotoumao/MusicFreeThemePacks
