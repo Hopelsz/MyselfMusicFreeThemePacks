@@ -27,9 +27,10 @@
 4.  制作完成使用`npm run publish`运行项目，新的主题文件生成存放在`.publish`文件夹下
 <br/>
 
-<img src=".imgs/黑红主题.png" width = 20% height = 20%/>
-<img src=".imgs/红娘主题.png" width = 20% height = 20%/>
-<img src=".imgs/海盗主题.png" width = 20% height = 20%/>
-<img src=".imgs/晚霞主题.png" width = 20% height = 20%/>
-
+<p> 
+    <img src=".imgs/黑红主题.png" width = 20% height = 20%/>
+    <img src=".imgs/红娘主题.png" width = 20% height = 20%/>
+    <img src=".imgs/海盗主题.png" width = 20% height = 20%/>
+    <img src=".imgs/晚霞主题.png" width = 20% height = 20%/>
+</p>
 本项目复刻自maotoumao的项目https://github.com/maotoumao/MusicFreeThemePacks
