@@ -57,13 +57,13 @@
   opacity: 1 !important;
 } */
 
-/* 歌词翻译角位置 */
+/* 歌词翻译角标位置 */
 .lyric-options-container {
   /* background-color: red !important; */
   bottom: 100px !important;
 }
 
-/* 歌词翻译角标小 */
+/* 歌词翻译角标大小 */
 .lyric-option-item {
   color: #ff0000;
   width: 30px !important;
