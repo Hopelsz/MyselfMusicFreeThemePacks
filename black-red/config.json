@@ -1,6 +1,6 @@
 {
     "name": "黑红",
-    "preview": "@/assets/black-red.png",
+    "preview": "@/imgs/black-red.png",
     "author":"hope",
     "description": "对细节方面做了些优化",
     "version":"0.0.1"

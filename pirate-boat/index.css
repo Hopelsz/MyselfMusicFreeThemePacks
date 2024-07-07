@@ -1,5 +1,5 @@
 #root {
-  background: url("@/assets/Pirates.png") !important;
+  background: url("@/imgs/Pirates.png") !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
 }
@@ -37,7 +37,7 @@ a {
 
 /* 歌曲详情页 */
 .music-detail-container {
-  background-image: url("@/assets/Pirates.png") !important;
+  background-image: url("@/imgs/Pirates.png") !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   top: -54px !important;

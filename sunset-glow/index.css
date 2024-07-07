@@ -1,5 +1,5 @@
 #root {
-  background: url("@/assets/Sunsetglow.png") !important;
+  background: url("@/imgs/Sunsetglow.png") !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
 
@@ -32,7 +32,7 @@
 
 /* 音乐详情页 */
 .music-detail-container {
-  background-image: url("@/assets/Sunsetglow.png") !important;
+  background-image: url("@/imgs/Sunsetglow.png") !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   top: -54px !important;

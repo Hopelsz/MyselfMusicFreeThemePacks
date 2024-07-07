@@ -1,6 +1,6 @@
 {
     "name": "海盗船",
-    "preview": "@/assets/Pirates.png",
+    "preview": "@/imgs/Pirates.png",
     "description": "背景图片,对之前版本做了一些优化",
     "author": "hope",
     "version": "0.0.1"
