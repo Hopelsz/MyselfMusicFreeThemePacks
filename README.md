@@ -13,7 +13,7 @@ MusicFreeDesktop桌面版
 
 ## 使用方法
 
-1. 下载<a href = "https://github.com/Hopelsz/MusicFreeThemePacks/releases/latest">主题包</a>并解压
+1. 下载<a href = "https://github.com/Hopelsz/MyselfMusicFreeThemePacks/releases/latest">主题包</a>并解压
 
 2. 点击 + 号安装主题，安装解压文件夹内的 .mftheme 文件（可以多选）
 
