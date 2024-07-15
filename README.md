@@ -61,8 +61,8 @@ MusicFreeDesktop桌面版
   <br><br>
 
 - 集原美主题【demon-slaye】<br>
-  <img src=".imgs/鬼灭之刃.png" width = 40% />
-  <img src=".imgs/鬼灭之刃歌曲详情.png" width = 40% />
+  <img src=".imgs/集原美主题.png" width = 40% />
+  <img src=".imgs/集原美主题歌曲详情.png" width = 40% />
   <br><br>
 
 - 千与千寻【spirited-away】<br>
