@@ -70,6 +70,11 @@ MusicFreeDesktop桌面版
   <img src=".imgs/千与千寻歌曲详情.png" width = 40% />
   <br><br>
 
+- 龙猫主题【totoro】<br>
+  <img src=".imgs/龙猫主题.png" width = 40% />
+  <img src=".imgs/龙猫主题歌曲详情.png" width = 40% />
+  <br><br>
+
 </details>
 <hr>
 <br><br><br>
