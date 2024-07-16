@@ -108,10 +108,11 @@ a {
 /* 歌词高亮 */
 .lyric-item {
     opacity: 0.3 !important;
+    font-size: 18px;
 
     &[data-highlight="true"] {
         color: #6eff81 !important;
-        font-size: 1.2em !important;
+        font-size: 25px !important;
         font-weight: 600 !important;
         opacity: 1 !important;
     }
