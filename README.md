@@ -75,6 +75,36 @@ MusicFreeDesktop桌面版
   <img src=".imgs/龙猫主题歌曲详情.png" width = 40% />
   <br><br>
 
+- 海边公路【动态】<br>
+  <img src=".imgs/海边公里.png" width = 40% />
+  <img src=".imgs/海边公里歌曲详情.png" width = 40% />
+  <br><br>
+
+- 海边流星<br>
+  <img src=".imgs/海边流星.png" width = 40% />
+  <img src=".imgs/海边流星歌曲详情.png" width = 40% />
+  <br><br>
+
+- 卡哇伊【seaside-meteor】<br>
+  <img src=".imgs/卡哇伊.png" width = 40% />
+  <img src=".imgs/卡哇伊歌曲详情.png" width = 40% />
+  <br><br>
+
+- 蓝色科技【动态blue-technology】<br>
+  <img src=".imgs/蓝色科技.png" width = 40% />
+  <img src=".imgs/蓝色科技歌曲详情.png" width = 40% />
+  <br><br>
+
+- 新海诚动漫风【动态makoto-shinkai】<br>
+  <img src=".imgs/新海诚动漫风.png" width = 40% />
+  <img src=".imgs/新海诚动漫风歌曲详情.png" width = 40% />
+  <br><br>
+
+- 言叶之庭【garden-of-words】<br>
+  <img src=".imgs/言叶之庭.png" width = 40% />
+  <img src=".imgs/言叶之庭歌曲详情.png" width = 40% />
+  <br><br>
+
 </details>
 <hr>
 <br><br><br>
@@ -90,10 +120,11 @@ MusicFreeDesktop桌面版
 
 ### 自己制作
 
-1.  新建文件夹，文件名尽量与自己主题名保持一致
-2.  文件夹中一定要包含`config.json`和`index.css`两个文件
-3.  如果需要指向本地的图片，可以通过 `@/` 表示主题包的路径；preview、iframes、以及 iframes 指向的 html 文件都会把 `@/` 替换为 主题包路径
-4.  制作完成使用`npm run publish`运行项目，新的主题文件生成存放在`.publish`文件夹下
-<br/>
+1. 新建文件夹，文件名尽量与自己主题名保持一致
+2. 文件夹中一定要包含`config.json`和`index.css`两个文件
+3. 如果需要指向本地的图片，可以通过 `@/` 表示主题包的路径；preview、iframes、以及 iframes 指向的 html 文件都会把 `@/` 替换为 主题包路径
+4. 制作完成使用`npm run publish`运行项目，新的主题文件生成存放在`.publish`文件夹下
+   <br/>
+
 <hr>
 本项目复刻自maotoumao的项目https://github.com/maotoumao/MusicFreeThemePacks
