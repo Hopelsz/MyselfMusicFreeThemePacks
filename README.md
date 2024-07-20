@@ -106,6 +106,21 @@ MusicFreeDesktop桌面版
   <img src=".imgs/言叶之庭歌曲详情.png" width = 40% />
   <br><br>
 
+- 艾莎【elsa】<br>
+  <img src=".imgs/艾莎主题.png" width = 40% />
+  <img src=".imgs/艾莎主题歌曲详情.png" width = 40% />
+  <br><br>
+
+- 街道主题【street】<br>
+  <img src=".imgs/街道主题.png" width = 40% />
+  <img src=".imgs/街道主题歌曲详情.png" width = 40% />
+  <br><br>
+
+- 蓝影主题【blue-shadow】<br>
+  <img src=".imgs/蓝影主题.png" width = 40% />
+  <img src=".imgs/蓝影主题歌曲详情.png" width = 40% />
+  <br><br>
+
 </details>
 <hr>
 <br><br><br>
