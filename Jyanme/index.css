@@ -1,6 +1,5 @@
 #root {
-    /* background: url("@/imgs/matchmaker.jpg") !important; */
-    background: rgba(0, 0, 0, 0.3) url('@/imgs/preview.png');
+    background: rgba(0, 0, 0, 0.2) url('@/imgs/preview.png');
     background-blend-mode: darken;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -17,12 +16,10 @@
     --listHoverColor: transparent !important;
     --textColor: #fcfcfc !important;
     --primaryColor: #FF9999 !important;
-    --hoverColor: rgba(255, 255, 255, 0.05) !important;
     --backgroundColor: #8b8baa !important;
     --dividerColor: transparent !important;
-    /* --dividerColor: rgba(255, 255, 255, 0.1) !important; */
     --placeholderColor: #a89898 !important;
-    /* --headerTextColor: #f5abff !important; */
+    --headerTextColor: #fcfcfc !important;
     --maskColor: rgba(51, 51, 51, 0.4) !important;
     font-size: 14px !important;
 }
@@ -41,7 +38,7 @@
     background-size: cover !important; */
 
     top: -54px !important;
-    bottom: -64px !important;
+    bottom: -65px !important;
     padding-top: 64px !important;
     overflow: hidden !important;
     mask-image: none !important;
@@ -107,8 +104,8 @@ a {
 
 /* 歌词高亮 */
 .lyric-item {
-    opacity: 0.3 !important;
-    font-size: 18px;
+    opacity: 0.2 !important;
+    font-size: 18px !important;
 
     &[data-highlight="true"] {
         color: #6eff81 !important;
