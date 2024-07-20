@@ -76,12 +76,12 @@ MusicFreeDesktop桌面版
   <img src=".imgs/龙猫主题歌曲详情.png" width = 40% />
   <br><br>
 
-- 海边公路【动态】<br>
+- 海边公路【动态seaside-road】<br>
   <img src=".imgs/海边公里.png" width = 40% />
   <img src=".imgs/海边公里歌曲详情.png" width = 40% />
   <br><br>
 
-- 海边流星<br>
+- 海边流星【seaside-meteor】<br>
   <img src=".imgs/海边流星.png" width = 40% />
   <img src=".imgs/海边流星歌曲详情.png" width = 40% />
   <br><br>
