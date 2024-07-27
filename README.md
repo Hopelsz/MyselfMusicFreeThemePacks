@@ -121,6 +121,16 @@ MusicFreeDesktop桌面版
   <img src=".imgs/蓝影主题歌曲详情.png" width = 40% />
   <br><br>
 
+- 金克斯【Jinx】<br>
+  <img src=".imgs/金克斯.png" width = 40% />
+  <img src=".imgs/金克斯歌曲详情.png" width = 40% />
+  <br><br>
+
+- 萨勒芬妮【seraphine】<br>
+  <img src=".imgs/萨勒芬妮.png" width = 40% />
+  <img src=".imgs/萨勒芬妮歌曲详情.png" width = 40% />
+  <br><br>
+
 </details>
 <hr>
 <br><br><br>
