@@ -32,7 +32,7 @@
 
 /* 音乐详情页 */
 .music-detail-container {
-  background-image: url("@/imgs/preview.jpg") !important;
+  background-image: url("@/imgs/preview-detail.png") !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   top: -54px !important;
