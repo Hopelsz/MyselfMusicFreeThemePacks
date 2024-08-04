@@ -121,16 +121,60 @@ MusicFreeDesktop桌面版
   <img src=".imgs/蓝影主题歌曲详情.png" width = 40% />
   <br><br>
 
-- 金克斯【Jinx】<br>
+- 金克斯【动态Jinx】<br>
   <img src=".imgs/金克斯.png" width = 40% />
   <img src=".imgs/金克斯歌曲详情.png" width = 40% />
   <br><br>
 
-- 萨勒芬妮【seraphine】<br>
+- 萨勒芬妮【动态seraphine】<br>
   <img src=".imgs/萨勒芬妮.png" width = 40% />
   <img src=".imgs/萨勒芬妮歌曲详情.png" width = 40% />
   <br><br>
 
+- 白雪覆盖的哥特式城市【gothic-city】<br>
+  <img src=".imgs/白雪覆盖的哥特式城市.png" width = 40% />
+  <img src=".imgs/白雪覆盖的哥特式城市歌曲详情.png" width = 40% />
+  <br><br>
+
+- 冰焰少女【动态ice-flame-girl】<br>
+  <img src=".imgs/冰焰少女.png" width = 40% />
+  <img src=".imgs/冰焰少女歌曲详情.png" width = 40% />
+  <br><br>
+
+- 神奇蘑菇【magical-mushroom】<br>
+  <img src=".imgs/神奇蘑菇.png" width = 40% />
+  <img src=".imgs/神奇蘑菇歌曲详情.png" width = 40% />
+  <br><br>
+
+- 水下女孩【underwater-girl】<br>
+  <img src=".imgs/水下女孩.png" width = 40% />
+  <img src=".imgs/水下女孩歌曲详情.png" width = 40% />
+  <br><br>
+
+- 午后金克斯【动态afternoon-jinx】<br>
+  <img src=".imgs/午后金克斯.png" width = 40% />
+  <img src=".imgs/午后金克斯歌曲详情.png" width = 40% />
+  <br><br>
+
+- 夏日莎【summer-sha】<br>
+  <img src=".imgs/夏日莎.png" width = 40% />
+  <img src=".imgs/夏日莎歌曲详情.png" width = 40% />
+  <br><br>
+
+- 星光美少女【动态starlight-girl】<br>
+  <img src=".imgs/星光美少女.png" width = 40% />
+  <img src=".imgs/星光美少女歌曲详情.png" width = 40% />
+  <br><br>
+
+- 泳池女孩【pool-girl】<br>
+  <img src=".imgs/泳池女孩.png" width = 40% />
+  <img src=".imgs/泳池女孩歌曲详情.png" width = 40% />
+  <br><br>
+
+- 灶门炭治郎【kamado-tanjirou】<br>
+  <img src=".imgs/灶门炭治郎.png" width = 40% />
+  <img src=".imgs/灶门炭治郎歌曲详情.png" width = 40% />
+  <br><br>
 </details>
 <hr>
 <br><br><br>
