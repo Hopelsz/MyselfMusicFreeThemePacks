@@ -15,10 +15,10 @@
   --listActiveColor: transparent !important;
   --listHoverColor: transparent !important;
   --textColor: #ffffff !important;
-  --primaryColor: #6fa2ff !important;
-  --backgroundColor: rgb(228, 184, 179) !important;
+  --primaryColor: #ff9e9e !important;
+  --backgroundColor: rgb(165,147,139) !important;
   --dividerColor: transparent !important;
-  --placeholderColor: rgb(182, 131, 127) !important;
+  --placeholderColor: rgb(190, 190, 190) !important;
   --headerTextColor: #ffffff !important;
   --maskColor: rgb(18, 18, 18, 0.4) !important;
   font-size: 14px !important;

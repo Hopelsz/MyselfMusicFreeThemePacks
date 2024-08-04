@@ -1,5 +1,5 @@
 #root {
-  background: rgba(0, 0, 0, 0.4) url('@/imgs/preview.jpg');
+  background: rgba(0, 0, 0, 0.3) url('@/imgs/preview.jpg');
   background-blend-mode: darken;
   background-repeat: no-repeat !important;
   background-size: cover !important;
@@ -16,9 +16,9 @@
   --listActiveColor: transparent !important;
   --listHoverColor: transparent !important;
   --textColor: #FFCC99 !important;
-  --primaryColor: #FF6666 !important;
+  --primaryColor: #000000 !important;
   --hoverColor: rgb(100, 125, 141) !important;
-  --backgroundColor: #313b44 !important;
+  --backgroundColor: rgb(97, 84, 72) !important;
   --dividerColor: transparent !important;
   --placeholderColor: #a18467ea !important;
   --headerTextColor: #FFCC99 !important;

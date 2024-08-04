@@ -14,12 +14,12 @@
 :root {
   --listActiveColor: transparent !important;
   --listHoverColor: transparent !important;
-  --textColor: #ffffff !important;
-  --primaryColor: #6fa2ff !important;
-  --backgroundColor: rgb(228, 184, 179) !important;
+  --textColor: #ffa7a7 !important;
+  --primaryColor: #6299ff !important;
+  --backgroundColor: rgb(14,26,43) !important;
   --dividerColor: transparent !important;
-  --placeholderColor: rgb(182, 131, 127) !important;
-  --headerTextColor: #ffffff !important;
+  --placeholderColor: rgb(151, 151, 151) !important;
+  --headerTextColor: #ffa7a7 !important;
   --maskColor: rgb(18, 18, 18, 0.4) !important;
   font-size: 14px !important;
 }

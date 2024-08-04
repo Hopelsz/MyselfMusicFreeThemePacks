@@ -15,10 +15,10 @@
   --listActiveColor: transparent !important;
   --listHoverColor: transparent !important;
   --textColor: #ffffff !important;
-  --primaryColor: #6fa2ff !important;
-  --backgroundColor: rgb(228, 184, 179) !important;
+  --primaryColor: rgb(255, 83, 103) !important;
+  --backgroundColor: #5d95ff !important;
   --dividerColor: transparent !important;
-  --placeholderColor: rgb(182, 131, 127) !important;
+  --placeholderColor: rgb(192, 192, 192) !important;
   --headerTextColor: #ffffff !important;
   --maskColor: rgb(18, 18, 18, 0.4) !important;
   font-size: 14px !important;
@@ -36,7 +36,7 @@
   background-repeat: no-repeat !important;
   background-size: cover !important;
   top: -54px !important;
-  bottom: -64px !important;
+  bottom: -65px !important;
   padding-top: 64px !important;
   /* background: rgba(37, 18, 18, 0.2) !important;
   backdrop-filter: blur(52px);

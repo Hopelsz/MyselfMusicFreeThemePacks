@@ -1,5 +1,5 @@
 #root {
-  background: rgba(0, 0, 0, 0.2) url('@/imgs/preview.jpg');
+  background: rgba(0, 0, 0, 0.3) url('@/imgs/preview.jpg');
   background-blend-mode: darken;
   background-repeat: no-repeat !important;
   background-size: cover !important;
@@ -15,14 +15,13 @@
 :root {
   --listActiveColor: transparent !important;
   --listHoverColor: transparent !important;
-  --textColor: #FFCC99 !important;
-  --primaryColor: #FF6666 !important;
-  --hoverColor: rgb(100, 125, 141) !important;
-  --backgroundColor: #313b44 !important;
+  --textColor: #ffa069 !important;
+  --primaryColor: #fd7272 !important;
+  --backgroundColor: #346f91 !important;
   --dividerColor: transparent !important;
-  --placeholderColor: #a18467ea !important;
-  --headerTextColor: #FFCC99 !important;
-  --maskColor: rgba(51, 51, 51, 0.7) !important;
+  --placeholderColor: #669bb9 !important;
+  --headerTextColor: #ffa069 !important;
+  --maskColor: rgba(51, 51, 51, 0.5) !important;
   font-size: 14px !important;
 }
 

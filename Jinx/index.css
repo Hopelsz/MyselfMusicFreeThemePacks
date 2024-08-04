@@ -14,13 +14,13 @@
 :root {
   --listActiveColor: transparent !important;
   --listHoverColor: transparent !important;
-  --textColor: #fcfcfc !important;
-  --primaryColor: #FF9999 !important;
-  --backgroundColor: #8b8baa !important;
+  --textColor: #ffffff !important;
+  --primaryColor: #ffb3bd !important;
+  --backgroundColor: rgb(172, 159, 158) !important;
   --dividerColor: transparent !important;
-  --placeholderColor: #a89898 !important;
-  --headerTextColor: #fcfcfc !important;
-  --maskColor: rgb(18, 18, 18, 0.8) !important;
+  --placeholderColor: rgb(164, 141, 138) !important;
+  --headerTextColor: #ffffff !important;
+  --maskColor: rgb(18, 18, 18, 0.6) !important;
   font-size: 14px !important;
 }
 
@@ -71,9 +71,9 @@
 }
 
 /* 隐藏专辑封面 */
-/* .music-album-options {
+.music-album-options {
   display: none !important;
-} */
+}
 
 .header-search {
   background-color: #4c789e38 !important;
